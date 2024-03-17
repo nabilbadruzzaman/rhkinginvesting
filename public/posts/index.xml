@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Investing Club</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Investing Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Mar 2024 14:32:54 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to investing</title>
+      <link>//localhost:1313/posts/first/</link>
+      <pubDate>Sun, 17 Mar 2024 14:32:54 -0400</pubDate>
+      <guid>//localhost:1313/posts/first/</guid>
+      <description>Investing sounds like a exciting topic - and it is. However, there isn&amp;rsquo;t that many resources available for learning how to do it. Sure you need to be an adult to actually invest any money, but you can even begin your investment journey today. It seems confusing where to begin. That&amp;rsquo;s why King&amp;rsquo;s Investing Club was created. By being a member, you&amp;rsquo;ll be educated enough on how to manage an investment portfolio of your own, anaylze different asset classes, and develop your own strategies.</description>
+    </item>
+  </channel>
+</rss>

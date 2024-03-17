@@ -1,0 +1,3 @@
+
+Creating Posts: 
+'hugo new posts/[POST NAME].md' 
