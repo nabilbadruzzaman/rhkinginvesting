@@ -1,15 +1,22 @@
 baseURL: ""
 languageCode: en-us
-title: Investing Club
-theme: PaperMod
+title: " "
+theme: ["PaperMod"]
 
 params:
+  # images: ["rhkinginvestinglogo_alt.png"]
+
+  label: 
+    # text:  
+    icon: rhkinginvestinglogo_alt.png
+    iconHeight: 80
+
   homeInfoParams:
-    Title: Welcome!
-    Content: Find relevant information, resources and articles here. 
+    Title: "Welcome!"
+    Content: "Find relevant information, resources and articles here."
   socialIcons:
     - name: instagram
-      url: 
+      url: https://www.instagram.com/rhkinginvesting/
     - name: github
       url: 'https://github.com/nabilbadruzzaman/rhkinginvesting'
   
@@ -19,12 +26,17 @@ params:
 
 menu:
   main:
-    - identifer: coordinators
-      name: Coordinators 
-      url: /coordinators/
-      weight: 10 
     - identifer: resources
       name: Resources 
       url: /resources/
       weight: 20
+    - identifer: search
+      name: Search
+      url: /search/ 
+      weight: 30 
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
