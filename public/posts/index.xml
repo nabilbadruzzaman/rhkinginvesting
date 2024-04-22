@@ -2,31 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on  </title>
-    <link>/posts/</link>
+    <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on  </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Mar 2024 16:16:59 -0400</lastBuildDate>
-    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Apr 2024 16:16:59 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 3 Recap</title>
+      <link>//localhost:1313/posts/5/</link>
+      <pubDate>Tue, 16 Apr 2024 16:16:59 -0400</pubDate>
+      <guid>//localhost:1313/posts/5/</guid>
+      <description>Measuring business performance It’s important to know how a business is doing. As an investor in a company, we’d like to know the following:
+Is the company profitable? Can the company pay income (dividends) to its owners (shareholders)? Can the company manage its debt? Is the company growing in terms of revenue and profit? Such questions can be answered with financial statements.
+What are financial statements? Financial statements convey financial performance about a company.</description>
+    </item>
+    <item>
+      <title>Day 2 Recap</title>
+      <link>//localhost:1313/posts/4/</link>
+      <pubDate>Tue, 09 Apr 2024 16:16:59 -0400</pubDate>
+      <guid>//localhost:1313/posts/4/</guid>
+      <description>What&amp;rsquo;s a market? A market is a place of exchange to facilitate the buying and selling of goods or services. Market participants include sellers and buyers. When we talk about the stock market, we talk about pieces of ownership (stocks) being bought or sold. \
+What exactly is a stock? Also known as shares or equities, they represent ownership in publicly traded companies. Shares of publicly traded companies can be bought and sold on the stock market .</description>
+    </item>
     <item>
       <title>Day 1 Recap</title>
-      <link>/posts/3/</link>
+      <link>//localhost:1313/posts/3/</link>
       <pubDate>Wed, 20 Mar 2024 16:16:59 -0400</pubDate>
-      <guid>/posts/3/</guid>
+      <guid>//localhost:1313/posts/3/</guid>
       <description>What will we cover? Equities: Also known as stocks or shares, represent ownership in a corporation. Holders of equities are known as shareholders, and are entitled to dividends and voting rights in some scenarios. The value comes in the scenario when a corporation liquidates its assets and pays its debts and returns leftover capital to shareholders. Fixed Income: Also known as bonds or credit, are a class of assets that pay interest over a fixed schedule.</description>
     </item>
     <item>
       <title>Introduction to investing</title>
-      <link>/posts/1/</link>
+      <link>//localhost:1313/posts/1/</link>
       <pubDate>Sun, 17 Mar 2024 14:32:54 -0400</pubDate>
-      <guid>/posts/1/</guid>
+      <guid>//localhost:1313/posts/1/</guid>
       <description>Investing sounds like a exciting topic - and it is. However, there isn&amp;rsquo;t that many resources available for learning how to do it. Sure, you need to be an adult to actually invest any money, but you can even begin your investment journey today. It seems confusing where to begin. That&amp;rsquo;s why King&amp;rsquo;s Investing Club was created. By being a member, you&amp;rsquo;ll be educated enough on how to manage an investment portfolio of your own, analyze different asset classes, and develop your own strategies.</description>
     </item>
     <item>
       <title>JA Canada&#39;s Investment Competition</title>
-      <link>/posts/2/</link>
+      <link>//localhost:1313/posts/2/</link>
       <pubDate>Sun, 17 Mar 2024 14:32:54 -0400</pubDate>
-      <guid>/posts/2/</guid>
+      <guid>//localhost:1313/posts/2/</guid>
       <description>Junior Achievement Canada is an organization that delivers learning experiences to youth. The main focus of these experiences is to teach financial well-being, entrepreneurship and workplace preparedness. One of their programs is called Investment Strategies, a Canada-wide competition which gives you the opportunity to manage a $100,000 portfolio in a stock market simulation. The top competitors across Canada who grew their portfolio the most, will receive a funded $1000 TFSA from Questrade when they turn 18.</description>
     </item>
   </channel>
